@@ -1,8 +1,8 @@
-## 记录卡片
+# 记录卡片
 
-#### 一个记录生活，记录心情的卡片。
+## 一个记录生活，记录心情的卡片。
 
-![1](./images/1.png)
+<img src="./images/1.png " alt="记录卡片" width="80%"/>
 
 用途：可以发社交平台，也可以自己记录。（更多用途自己研究）
 
@@ -10,9 +10,9 @@
 
 【内置四种预设背景，可以看效果】：
 
-<img src="./images/记录卡片.png" alt="记录卡片" style="zoom: 33%;" /> <img src="./images/4.png" alt="4" style="zoom:33%;" /> 
+<img src="./images/记录卡片.png" alt="记录卡片" width="44%"/> <img src="./images/4.png" alt="4" width="44%" /> 
 
-<img src="./images/3.png" alt="3" style="zoom:33%;" /> <img src="./images/2.png" alt="2" style="zoom:33%;" />
+<img src="./images/3.png" alt="3" width="44%"/> <img src="./images/2.png" alt="2" width="44%" />
 
 #### 使用方法：
 
@@ -22,11 +22,10 @@
 
 - **edge浏览器安装方法**【推荐】：
 
-  1. 到edge加载项页面搜索“记录卡片” ，认准图标**【推荐】**
-
-     ![logo](./images/logo.png)
-
-​     2.第二种到发布页面下载crx文件，打开edge开发者选项，直接拖入页面中即可。
+  1.到edge加载项页面搜索“记录卡片” ，认准图标【推荐】
+  
+     <img src="./images/logo.png"  width="100" height="100" />
+​  2.第二种到发布页面下载crx文件，打开edge开发者选项，直接拖入页面中即可。
 
 #### 打赏我
 
