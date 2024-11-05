@@ -2,6 +2,10 @@
 
 ## 一个记录生活，记录心情的卡片。
 
+![Static Badge](https://img.shields.io/badge/Downoad-20%E4%BA%BA-brightgreen)
+![Static Badge](https://img.shields.io/badge/user-45-brightgreen)
+
+
 <img src="./images/1.png " alt="记录卡片" width="80%"/>
 
 用途：可以发社交平台，也可以自己记录。（更多用途自己研究）
