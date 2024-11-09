@@ -31,6 +31,10 @@
      <img src="./images/logo.png"  width="100" height="100" />
 ​  2.第二种到发布页面下载crx文件，打开edge开发者选项，直接拖入页面中即可。
 
+#### 关注我
+<img src="./images/01.png" style="width:50%">
+
+
 #### 打赏我
 
 如果觉得对你有帮助，可以打赏我，感谢您的支持（使用微信扫一扫）
